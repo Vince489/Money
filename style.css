@@ -13,14 +13,14 @@ a {
 }
 
 .navbar {
-  width: vw;
+  width: 100vw;
   height: 55px;
   background-color: rgb(136, 119, 212);
   color: white;
 }
 
 .header {
-  width: vw;
+  width: 100vw;
   height: 120px;
   background-color: rgb(212, 119, 119);
   color: white;
@@ -28,7 +28,7 @@ a {
 }
 
 .section {
-  width: vw;
+  width: 100vw;
   height: 570px;
   background-color: rgb(72, 173, 140);
   color: white;
