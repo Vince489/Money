@@ -5,6 +5,11 @@
 
 p {
   font-size: large;
+  color: white;
+}
+
+a {
+  color: white;
 }
 
 .navbar {
@@ -12,7 +17,6 @@ p {
   height: 55px;
   background-color: rgb(136, 119, 212);
   color: white;
-  text-align: center;
 }
 
 .header {
