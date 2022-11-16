@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: large;
+}
+
+.navbar {
+  width: vw;
+  height: 55px;
+  background-color: rgb(136, 119, 212);
+  color: white;
+  text-align: center;
+}
+
+.header {
+  width: vw;
+  height: 120px;
+  background-color: rgb(212, 119, 119);
+  color: white;
+  text-align: center;
+}
+
+.section {
+  width: vw;
+  height: 570px;
+  background-color: rgb(72, 173, 140);
+  color: white;
+  text-align: center;
+}
+
+.footer {
+  width: vw;
+  height: 85px;
+  background-color: rgb(225, 159, 72);
+  color: white;
+  text-align: center;
+}
